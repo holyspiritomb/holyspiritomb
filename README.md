@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[![Neovim](https://badgen.net/badge/icon/neovim?icon=neovim&label)](https://neovim.io)
+![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
+
+
 <!--
 **holyspiritomb/holyspiritomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
