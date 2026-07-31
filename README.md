@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-[![Neovim](https://badgen.net/badge/icon/neovim?icon=neovim&label)](https://neovim.io)
+[![Neovim](https://badgen.net/badge/icon/neovim?color=5FB950&icon=neovim&label)](https://neovim.io)
 ![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
-[![Arch Linux](https://badgen.net/badge/icon/Arch%20Linux?icon=archlinux&label)](https://archlinux.org)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+[![Arch Linux](https://badgen.net/badge/icon/Arch%20Linux?color=3AAADD&icon=archlinux&label)](https://archlinux.org)
+[![Raspberry Pi](https://badgen.net/badge/icon/Raspberry%20Pi%203B+?color=A22846&icon=raspberry-pi&label)](https://raspberrypi.com)
 
 
 <!--
