@@ -2,6 +2,7 @@
 
 [![Neovim](https://badgen.net/badge/icon/neovim?icon=neovim&label)](https://neovim.io)
 ![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
 
 
 <!--
