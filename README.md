@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,js,neovim,arch,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,js,sass,neovim,arch,raspberrypi)](https://skillicons.dev)
 
 [![Raspberry Pi](https://badgen.net/badge/icon/Raspberry%20Pi%203A+?color=A22846&icon=raspberry-pi&label)](https://raspberrypi.com)
 [![Raspberry Pi](https://badgen.net/badge/icon/Raspberry%20Pi%203B+?color=A22846&icon=raspberry-pi&label)](https://raspberrypi.com)
