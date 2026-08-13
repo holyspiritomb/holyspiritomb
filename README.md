@@ -8,7 +8,7 @@
 [![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](#)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](https://neovim.io)
 
-[![forthebadge](https://forthebadge.com/badges/works-on-my-machine.svg)](https://forthebadge.com)
+[![forthebadge](https://raw.githubusercontent.com/holyspiritomb/holyspiritomb/refs/heads/main/works-on-my-machine.svg)](https://forthebadge.com)
 
 
 <!--
