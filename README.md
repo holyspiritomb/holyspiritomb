@@ -2,13 +2,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,js,sass,neovim,arch,raspberrypi)](https://skillicons.dev)
 
-[![Raspberry Pi](https://badgen.net/badge/icon/Raspberry%20Pi%203A+?color=A22846&icon=raspberry-pi&label)](https://raspberrypi.com)
-[![Raspberry Pi](https://badgen.net/badge/icon/Raspberry%20Pi%203B+?color=A22846&icon=raspberry-pi&label)](https://raspberrypi.com)
+[![Raspberry Pi 3A+](https://badgen.net/badge/icon/Raspberry%20Pi%203A+?color=A22846&icon=raspberry-pi&label)](https://raspberrypi.com)
+[![Raspberry Pi 3B+](https://badgen.net/badge/icon/Raspberry%20Pi%203B+?color=A22846&icon=raspberry-pi&label)](https://raspberrypi.com)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
-[![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](#)
+[![Z Shell](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](#)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](https://neovim.io)
 
-[![forthebadge](https://raw.githubusercontent.com/holyspiritomb/holyspiritomb/refs/heads/main/works-on-my-machine.svg)](https://forthebadge.com)
+[![Works on my machine](https://raw.githubusercontent.com/holyspiritomb/holyspiritomb/refs/heads/main/works-on-my-machine.svg)](https://forthebadge.com)
 
 
 <!--
