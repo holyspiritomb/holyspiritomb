@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![it ain't much but it's honest](https://raw.githubusercontent.com/holyspiritomb/holyspiritomb/refs/heads/main/honest.svg)
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,js,sass,neovim,arch,raspberrypi)](https://skillicons.dev)
 
 [![Raspberry Pi 3A+](https://badgen.net/badge/icon/Raspberry%20Pi%203A+?color=A22846&icon=raspberry-pi&label)](https://raspberrypi.com)
