@@ -2,7 +2,9 @@
 
 ![it ain't much but it's honest](https://raw.githubusercontent.com/holyspiritomb/holyspiritomb/refs/heads/main/honest-1.svg)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,js,sass,neovim,arch,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,js,neovim,arch,raspberrypi)](https://skillicons.dev)
+
+[![things i'm comfortable messing around with](https://skillicons.dev/icons?i=vite,react,vue,ts,sass,bootstrap,lua)](https://skillicons.dev)
 
 [![Raspberry Pi 3A+](https://badgen.net/badge/icon/Raspberry%20Pi%203A+?color=A22846&icon=raspberry-pi&label)](https://raspberrypi.com)
 [![Raspberry Pi 3B+](https://badgen.net/badge/icon/Raspberry%20Pi%203B+?color=A22846&icon=raspberry-pi&label)](https://raspberrypi.com)
