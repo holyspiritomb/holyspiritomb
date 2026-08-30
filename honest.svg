@@ -1,0 +1,413 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="755.2" height="376" viewBox="0 0 755.2 376" role="img" aria-label="console2svg output">
+<style>
+.c2.c { font-family: "JetBrains Mono","Cascadia Mono","Segoe UI Mono","Noto Sans Mono","SFMono-Regular",Menlo,Consolas,"DejaVu Sans Mono","Liberation Mono",monospace; font-size: 14px; }
+.c2 text { dominant-baseline: alphabetic; }
+.c2 .q { shape-rendering: crispEdges; }
+.c2 .w { white-space: pre; }
+.c2 .aa{fill:#FF208A}
+.c2 .ab{fill:#FF4270}
+.c2 .ac{fill:#8DC67F}
+.c2 .ad{fill:#4A94E8}
+.c2 .ae{fill:#8D67C6}
+.c2 .af{fill:#31A4F4}
+.c2 .ag{fill:#FF1B8D}
+.c2 .ah{fill:#E9D618}
+.c2 .ai{fill:#FF2585}
+.c2 .aj{fill:#FF3778}
+.c2 .ak{fill:#FF4F67}
+.c2 .al{fill:#FF893B}
+.c2 .am{fill:#FFA626}
+.c2 .an{fill:#F3D80E}
+.c2 .ao{fill:#DED425}
+.c2 .ap{fill:#9FCA6C}
+.c2 .aq{fill:#7BC393}
+.c2 .ar{fill:#59BEB9}
+.c2 .as{fill:#3CB9DA}
+.c2 .at{fill:#27B5F1}
+.c2 .au{fill:#1CB2FE}
+.c2 .av{fill:#27ABF9}
+.c2 .aw{fill:#598AE0}
+.c2 .ax{fill:#9F5BBD}
+.c2 .ay{fill:#DE319E}
+.c2 .az{fill:#F32393}
+.c2 .ba{fill:#FF6C52}
+.c2 .bb{fill:#FFBE15}
+.c2 .bc{fill:#FFD008}
+.c2 .bd{fill:#FFD901}
+.c2 .be{fill:#1CB3FD}
+.c2 .bf{fill:#3C9DEE}
+.c2 .bg{fill:#7B73CF}
+.c2 .bh{fill:#C144AC}
+.c2 .bi{fill:#FF1C8C}
+.c2 .bj{fill:#FF7A47}
+.c2 .bk{fill:#FFB31D}
+.c2 .bl{fill:#FFC80D}
+.c2 .bm{fill:#FFD503}
+.c2 .bn{fill:#B0CD58}
+.c2 .bo{fill:#4ABBCA}
+.c2 .bp{fill:#21B4F9}
+.c2 .bq{fill:#21AFFC}
+.c2 .br{fill:#6A7ED8}
+.c2 .bs{fill:#B050B4}
+.c2 .bt{fill:#D03AA4}
+.c2 .bu{fill:#F91F90}
+.c2 .bv{fill:#FF9831}
+.c2 .bw{fill:#FFDA00}
+.c2 .bx{fill:#D0D235}
+.c2 .by{fill:#1BB3FF}
+.c2 .bz{fill:#FF2D80}
+.c2 .ca{fill:#FF5D5C}
+.c2 .cb{fill:#6AC0A7}
+.c2 .cc{fill:#31B7E7}
+.c2 .cd{fill:#FEDA02}
+.c2 .ce{fill:#FE1C8E}
+.c2 .cf{fill:#C1CF46}
+.c2 .cg{fill:#F9D906}
+.c2 .ch{fill:#E92A98}
+</style><rect width="755.2" height="376" fill="#1e1e1e"/>
+<g class="c2 c" transform="translate(8 8)">
+<rect width="739.2" height="360" fill="#1e1e1e"/>
+<text class="aa" x="8.4" y="14" textLength="8.4">_</text>
+<text class="ab" x="25.2" y="14" textLength="8.4">_</text>
+<text class="ac" x="126" y="14" textLength="8.4">_</text>
+<text class="ad" x="193.2" y="14" textLength="8.4">_</text>
+<text class="ae" x="210" y="14" textLength="8.4">_</text>
+<text class="af" x="436.8" y="14" textLength="8.4">_</text>
+<text class="ag" x="504" y="14" textLength="8.4">_</text>
+<text class="ah" x="604.8" y="14" textLength="8.4">_</text>
+<text class="ai" y="32" textLength="8.4">(</text>
+<text class="aj" x="8.4" y="32" textLength="8.4">_</text>
+<text class="ak" x="16.8" y="32" textLength="8.4">)</text>
+<text class="al" x="33.6" y="32" textLength="8.4">|</text>
+<text class="am" x="42" y="32" textLength="8.4">_</text>
+<text class="an" x="84" y="32" textLength="8.4">_</text>
+<text class="ao" x="92.4" y="32" textLength="8.4">_</text>
+<text class="ap" x="109.2" y="32" textLength="8.4">_</text>
+<text class="aq" x="117.6" y="32" textLength="8.4">(</text>
+<text class="ar" x="126" y="32" textLength="8.4">_</text>
+<text class="as" x="134.4" y="32" textLength="8.4">)</text>
+<text class="at" x="142.8" y="32" textLength="8.4">_</text>
+<text class="au" x="159.6" y="32" textLength="8.4">_</text>
+<text class="av" x="168" y="32" textLength="8.4">_</text>
+<text class="aw" x="184.8" y="32" textLength="8.4">(</text>
+<text class="ax" x="201.6" y="32" textLength="8.4">)</text>
+<text class="ay" x="218.4" y="32" textLength="8.4">|</text>
+<text class="az" x="226.8" y="32" textLength="8.4">_</text>
+<text class="aj" x="260.4" y="32" textLength="8.4">_</text>
+<text class="ba" x="277.2" y="32" textLength="8.4">_</text>
+<text class="al" x="285.6" y="32" textLength="8.4">_</text>
+<text class="bb" x="302.4" y="32" textLength="8.4">_</text>
+<text class="bc" x="310.8" y="32" textLength="8.4">_</text>
+<text class="bd" x="319.2" y="32" textLength="8.4">_</text>
+<text class="ao" x="344.4" y="32" textLength="8.4">_</text>
+<text class="ar" x="378" y="32" textLength="8.4">_</text>
+<text class="be" x="403.2" y="32" textLength="8.4">_</text>
+<text class="au" x="411.6" y="32" textLength="8.4">_</text>
+<text class="av" x="420" y="32" textLength="8.4">_</text>
+<text class="bf" x="428.4" y="32" textLength="8.4">|</text>
+<text class="bg" x="445.2" y="32" textLength="8.4">|</text>
+<text class="ax" x="453.6" y="32" textLength="8.4">_</text>
+<text class="bh" x="462" y="32" textLength="8.4">_</text>
+<text class="bi" x="495.6" y="32" textLength="8.4">|</text>
+<text class="aj" x="512.4" y="32" textLength="8.4">|</text>
+<text class="ak" x="520.8" y="32" textLength="8.4">_</text>
+<text class="ba" x="529.2" y="32" textLength="8.4">_</text>
+<text class="bb" x="554.4" y="32" textLength="8.4">_</text>
+<text class="an" x="588" y="32" textLength="8.4">_</text>
+<text class="ao" x="596.4" y="32" textLength="8.4">|</text>
+<text class="ap" x="613.2" y="32" textLength="8.4">|</text>
+<text class="aq" x="621.6" y="32" textLength="8.4">_</text>
+<text class="ab" y="50" textLength="8.4">|</text>
+<text class="bj" x="16.8" y="50" textLength="8.4">|</text>
+<text class="bk" x="33.6" y="50" textLength="8.4">_</text>
+<text class="bl" x="42" y="50" textLength="8.4">_</text>
+<text class="bm" x="50.4" y="50" textLength="8.4">|</text>
+<text class="ah" x="75.6" y="50" textLength="8.4">/</text>
+<text class="bn" x="92.4" y="50" textLength="8.4">_</text>
+<text class="ac" x="100.8" y="50" textLength="8.4">`</text>
+<text class="bo" x="117.6" y="50" textLength="8.4">|</text>
+<text class="bp" x="134.4" y="50" textLength="8.4">|</text>
+<text class="bq" x="151.2" y="50" textLength="8.4">&apos;</text>
+<text class="af" x="159.6" y="50" textLength="8.4">_</text>
+<text class="br" x="176.4" y="50" textLength="8.4">\</text>
+<text class="ae" x="184.8" y="50" textLength="8.4">|</text>
+<text class="bs" x="193.2" y="50" textLength="8.4">/</text>
+<text class="bt" x="201.6" y="50" textLength="8.4">|</text>
+<text class="bu" x="218.4" y="50" textLength="8.4">_</text>
+<text class="ag" x="226.8" y="50" textLength="8.4">_</text>
+<text class="aa" x="235.2" y="50" textLength="8.4">|</text>
+<text class="ab" x="252" y="50" textLength="8.4">|</text>
+<text class="bj" x="268.8" y="50" textLength="8.4">&apos;</text>
+<text class="bv" x="277.2" y="50" textLength="8.4">_</text>
+<text class="bl" x="294" y="50" textLength="8.4">`</text>
+<text class="bw" x="310.8" y="50" textLength="8.4">_</text>
+<text class="ah" x="327.6" y="50" textLength="8.4">\</text>
+<text class="bx" x="336" y="50" textLength="8.4">|</text>
+<text class="ac" x="352.8" y="50" textLength="8.4">|</text>
+<text class="bo" x="369.6" y="50" textLength="8.4">|</text>
+<text class="bp" x="386.4" y="50" textLength="8.4">|</text>
+<text class="by" x="394.8" y="50" textLength="8.4">/</text>
+<text class="af" x="411.6" y="50" textLength="8.4">_</text>
+<text class="ad" x="420" y="50" textLength="8.4">_</text>
+<text class="br" x="428.4" y="50" textLength="8.4">|</text>
+<text class="bs" x="445.2" y="50" textLength="8.4">&apos;</text>
+<text class="bt" x="453.6" y="50" textLength="8.4">_</text>
+<text class="bu" x="470.4" y="50" textLength="8.4">\</text>
+<text class="bz" x="495.6" y="50" textLength="8.4">|</text>
+<text class="ca" x="512.4" y="50" textLength="8.4">&apos;</text>
+<text class="bj" x="520.8" y="50" textLength="8.4">_</text>
+<text class="bk" x="537.6" y="50" textLength="8.4">\</text>
+<text class="bl" x="546" y="50" textLength="8.4">|</text>
+<text class="bw" x="562.8" y="50" textLength="8.4">|</text>
+<text class="ah" x="579.6" y="50" textLength="8.4">|</text>
+<text class="bn" x="596.4" y="50" textLength="8.4">|</text>
+<text class="cb" x="613.2" y="50" textLength="8.4">_</text>
+<text class="bo" x="621.6" y="50" textLength="8.4">_</text>
+<text class="cc" x="630" y="50" textLength="8.4">|</text>
+<text class="ba" y="68" textLength="8.4">|</text>
+<text class="am" x="16.8" y="68" textLength="8.4">|</text>
+<text class="bc" x="33.6" y="68" textLength="8.4">|</text>
+<text class="bd" x="42" y="68" textLength="8.4">_</text>
+<text class="ao" x="67.2" y="68" textLength="8.4">|</text>
+<text class="ap" x="84" y="68" textLength="8.4">(</text>
+<text class="aq" x="92.4" y="68" textLength="8.4">_</text>
+<text class="ar" x="100.8" y="68" textLength="8.4">|</text>
+<text class="at" x="117.6" y="68" textLength="8.4">|</text>
+<text class="au" x="134.4" y="68" textLength="8.4">|</text>
+<text class="bf" x="151.2" y="68" textLength="8.4">|</text>
+<text class="bg" x="168" y="68" textLength="8.4">|</text>
+<text class="bh" x="184.8" y="68" textLength="8.4">|</text>
+<text class="az" x="201.6" y="68" textLength="8.4">|</text>
+<text class="bi" x="218.4" y="68" textLength="8.4">|</text>
+<text class="ai" x="226.8" y="68" textLength="8.4">_</text>
+<text class="ba" x="252" y="68" textLength="8.4">|</text>
+<text class="am" x="268.8" y="68" textLength="8.4">|</text>
+<text class="bc" x="285.6" y="68" textLength="8.4">|</text>
+<text class="cd" x="302.4" y="68" textLength="8.4">|</text>
+<text class="ao" x="319.2" y="68" textLength="8.4">|</text>
+<text class="ap" x="336" y="68" textLength="8.4">|</text>
+<text class="ar" x="352.8" y="68" textLength="8.4">|</text>
+<text class="as" x="361.2" y="68" textLength="8.4">_</text>
+<text class="at" x="369.6" y="68" textLength="8.4">|</text>
+<text class="au" x="386.4" y="68" textLength="8.4">|</text>
+<text class="bf" x="403.2" y="68" textLength="8.4">(</text>
+<text class="aw" x="411.6" y="68" textLength="8.4">_</text>
+<text class="bg" x="420" y="68" textLength="8.4">_</text>
+<text class="ax" x="428.4" y="68" textLength="8.4">|</text>
+<text class="ay" x="445.2" y="68" textLength="8.4">|</text>
+<text class="ce" x="462" y="68" textLength="8.4">|</text>
+<text class="ai" x="478.8" y="68" textLength="8.4">|</text>
+<text class="ak" x="495.6" y="68" textLength="8.4">|</text>
+<text class="al" x="512.4" y="68" textLength="8.4">|</text>
+<text class="am" x="520.8" y="68" textLength="8.4">_</text>
+<text class="bb" x="529.2" y="68" textLength="8.4">)</text>
+<text class="bd" x="546" y="68" textLength="8.4">|</text>
+<text class="an" x="562.8" y="68" textLength="8.4">|</text>
+<text class="ao" x="571.2" y="68" textLength="8.4">_</text>
+<text class="cf" x="579.6" y="68" textLength="8.4">|</text>
+<text class="aq" x="596.4" y="68" textLength="8.4">|</text>
+<text class="as" x="613.2" y="68" textLength="8.4">|</text>
+<text class="at" x="621.6" y="68" textLength="8.4">_</text>
+<text class="bv" y="86" textLength="8.4">|</text>
+<text class="bk" x="8.4" y="86" textLength="8.4">_</text>
+<text class="bl" x="16.8" y="86" textLength="8.4">|</text>
+<text class="bm" x="25.2" y="86" textLength="8.4">\</text>
+<text class="bw" x="33.6" y="86" textLength="8.4">_</text>
+<text class="cg" x="42" y="86" textLength="8.4">_</text>
+<text class="ah" x="50.4" y="86" textLength="8.4">|</text>
+<text class="ac" x="75.6" y="86" textLength="8.4">\</text>
+<text class="cb" x="84" y="86" textLength="8.4">_</text>
+<text class="bo" x="92.4" y="86" textLength="8.4">_</text>
+<text class="cc" x="100.8" y="86" textLength="8.4">,</text>
+<text class="bp" x="109.2" y="86" textLength="8.4">_</text>
+<text class="by" x="117.6" y="86" textLength="8.4">|</text>
+<text class="bq" x="126" y="86" textLength="8.4">_</text>
+<text class="af" x="134.4" y="86" textLength="8.4">|</text>
+<text class="ad" x="142.8" y="86" textLength="8.4">_</text>
+<text class="br" x="151.2" y="86" textLength="8.4">|</text>
+<text class="bs" x="168" y="86" textLength="8.4">|</text>
+<text class="bt" x="176.4" y="86" textLength="8.4">_</text>
+<text class="ch" x="184.8" y="86" textLength="8.4">|</text>
+<text class="aa" x="210" y="86" textLength="8.4">\</text>
+<text class="bz" x="218.4" y="86" textLength="8.4">_</text>
+<text class="ab" x="226.8" y="86" textLength="8.4">_</text>
+<text class="ca" x="235.2" y="86" textLength="8.4">|</text>
+<text class="bv" x="252" y="86" textLength="8.4">|</text>
+<text class="bk" x="260.4" y="86" textLength="8.4">_</text>
+<text class="bl" x="268.8" y="86" textLength="8.4">|</text>
+<text class="bw" x="285.6" y="86" textLength="8.4">|</text>
+<text class="cg" x="294" y="86" textLength="8.4">_</text>
+<text class="ah" x="302.4" y="86" textLength="8.4">|</text>
+<text class="bn" x="319.2" y="86" textLength="8.4">|</text>
+<text class="ac" x="327.6" y="86" textLength="8.4">_</text>
+<text class="cb" x="336" y="86" textLength="8.4">|</text>
+<text class="bo" x="344.4" y="86" textLength="8.4">\</text>
+<text class="cc" x="352.8" y="86" textLength="8.4">_</text>
+<text class="bp" x="361.2" y="86" textLength="8.4">_</text>
+<text class="by" x="369.6" y="86" textLength="8.4">,</text>
+<text class="bq" x="378" y="86" textLength="8.4">_</text>
+<text class="af" x="386.4" y="86" textLength="8.4">|</text>
+<text class="ad" x="394.8" y="86" textLength="8.4">\</text>
+<text class="br" x="403.2" y="86" textLength="8.4">_</text>
+<text class="ae" x="411.6" y="86" textLength="8.4">_</text>
+<text class="bs" x="420" y="86" textLength="8.4">_</text>
+<text class="bt" x="428.4" y="86" textLength="8.4">|</text>
+<text class="ch" x="436.8" y="86" textLength="8.4">_</text>
+<text class="bu" x="445.2" y="86" textLength="8.4">|</text>
+<text class="aa" x="462" y="86" textLength="8.4">|</text>
+<text class="bz" x="470.4" y="86" textLength="8.4">_</text>
+<text class="ab" x="478.8" y="86" textLength="8.4">|</text>
+<text class="bj" x="495.6" y="86" textLength="8.4">|</text>
+<text class="bv" x="504" y="86" textLength="8.4">_</text>
+<text class="bk" x="512.4" y="86" textLength="8.4">.</text>
+<text class="bl" x="520.8" y="86" textLength="8.4">_</text>
+<text class="bm" x="529.2" y="86" textLength="8.4">_</text>
+<text class="bw" x="537.6" y="86" textLength="8.4">/</text>
+<text class="ah" x="554.4" y="86" textLength="8.4">\</text>
+<text class="bx" x="562.8" y="86" textLength="8.4">_</text>
+<text class="bn" x="571.2" y="86" textLength="8.4">_</text>
+<text class="ac" x="579.6" y="86" textLength="8.4">,</text>
+<text class="cb" x="588" y="86" textLength="8.4">_</text>
+<text class="bo" x="596.4" y="86" textLength="8.4">|</text>
+<text class="cc" x="604.8" y="86" textLength="8.4">\</text>
+<text class="bp" x="613.2" y="86" textLength="8.4">_</text>
+<text class="by" x="621.6" y="86" textLength="8.4">_</text>
+<text class="bq" x="630" y="86" textLength="8.4">|</text>
+<text class="bw" x="8.4" y="122" textLength="8.4">_</text>
+<text class="ah" x="25.2" y="122" textLength="8.4">_</text>
+<text class="cb" x="58.8" y="122" textLength="8.4">_</text>
+<text class="br" x="126" y="122" textLength="8.4">_</text>
+<text class="af" x="361.2" y="122" textLength="8.4">_</text>
+<text class="cd" y="140" textLength="8.4">(</text>
+<text class="an" x="8.4" y="140" textLength="8.4">_</text>
+<text class="ao" x="16.8" y="140" textLength="8.4">)</text>
+<text class="ap" x="33.6" y="140" textLength="8.4">|</text>
+<text class="aq" x="42" y="140" textLength="8.4">_</text>
+<text class="ar" x="50.4" y="140" textLength="8.4">(</text>
+<text class="at" x="67.2" y="140" textLength="8.4">)</text>
+<text class="be" x="75.6" y="140" textLength="8.4">_</text>
+<text class="au" x="84" y="140" textLength="8.4">_</text>
+<text class="av" x="92.4" y="140" textLength="8.4">_</text>
+<text class="bg" x="117.6" y="140" textLength="8.4">|</text>
+<text class="bh" x="134.4" y="140" textLength="8.4">|</text>
+<text class="ay" x="142.8" y="140" textLength="8.4">_</text>
+<text class="az" x="151.2" y="140" textLength="8.4">_</text>
+<text class="aj" x="184.8" y="140" textLength="8.4">_</text>
+<text class="ak" x="193.2" y="140" textLength="8.4">_</text>
+<text class="ba" x="201.6" y="140" textLength="8.4">_</text>
+<text class="bb" x="226.8" y="140" textLength="8.4">_</text>
+<text class="bd" x="243.6" y="140" textLength="8.4">_</text>
+<text class="cd" x="252" y="140" textLength="8.4">_</text>
+<text class="ap" x="285.6" y="140" textLength="8.4">_</text>
+<text class="aq" x="294" y="140" textLength="8.4">_</text>
+<text class="ar" x="302.4" y="140" textLength="8.4">_</text>
+<text class="be" x="327.6" y="140" textLength="8.4">_</text>
+<text class="au" x="336" y="140" textLength="8.4">_</text>
+<text class="av" x="344.4" y="140" textLength="8.4">_</text>
+<text class="bf" x="352.8" y="140" textLength="8.4">|</text>
+<text class="bg" x="369.6" y="140" textLength="8.4">|</text>
+<text class="ax" x="378" y="140" textLength="8.4">_</text>
+<text class="ah" y="158" textLength="8.4">|</text>
+<text class="bn" x="16.8" y="158" textLength="8.4">|</text>
+<text class="cb" x="33.6" y="158" textLength="8.4">_</text>
+<text class="bo" x="42" y="158" textLength="8.4">_</text>
+<text class="cc" x="50.4" y="158" textLength="8.4">|</text>
+<text class="bp" x="58.8" y="158" textLength="8.4">/</text>
+<text class="by" x="67.2" y="158" textLength="8.4">/</text>
+<text class="af" x="84" y="158" textLength="8.4">_</text>
+<text class="ad" x="92.4" y="158" textLength="8.4">_</text>
+<text class="br" x="100.8" y="158" textLength="8.4">|</text>
+<text class="bs" x="117.6" y="158" textLength="8.4">|</text>
+<text class="ch" x="134.4" y="158" textLength="8.4">&apos;</text>
+<text class="bu" x="142.8" y="158" textLength="8.4">_</text>
+<text class="aa" x="159.6" y="158" textLength="8.4">\</text>
+<text class="ab" x="176.4" y="158" textLength="8.4">/</text>
+<text class="bj" x="193.2" y="158" textLength="8.4">_</text>
+<text class="bk" x="210" y="158" textLength="8.4">\</text>
+<text class="bl" x="218.4" y="158" textLength="8.4">|</text>
+<text class="bw" x="235.2" y="158" textLength="8.4">&apos;</text>
+<text class="cg" x="243.6" y="158" textLength="8.4">_</text>
+<text class="bx" x="260.4" y="158" textLength="8.4">\</text>
+<text class="ac" x="277.2" y="158" textLength="8.4">/</text>
+<text class="bo" x="294" y="158" textLength="8.4">_</text>
+<text class="bp" x="310.8" y="158" textLength="8.4">\</text>
+<text class="by" x="319.2" y="158" textLength="8.4">/</text>
+<text class="af" x="336" y="158" textLength="8.4">_</text>
+<text class="ad" x="344.4" y="158" textLength="8.4">_</text>
+<text class="br" x="352.8" y="158" textLength="8.4">|</text>
+<text class="bs" x="369.6" y="158" textLength="8.4">_</text>
+<text class="bt" x="378" y="158" textLength="8.4">_</text>
+<text class="ch" x="386.4" y="158" textLength="8.4">|</text>
+<text class="cf" y="176" textLength="8.4">|</text>
+<text class="aq" x="16.8" y="176" textLength="8.4">|</text>
+<text class="as" x="33.6" y="176" textLength="8.4">|</text>
+<text class="at" x="42" y="176" textLength="8.4">_</text>
+<text class="av" x="67.2" y="176" textLength="8.4">\</text>
+<text class="bf" x="75.6" y="176" textLength="8.4">_</text>
+<text class="aw" x="84" y="176" textLength="8.4">_</text>
+<text class="ax" x="100.8" y="176" textLength="8.4">\</text>
+<text class="ay" x="117.6" y="176" textLength="8.4">|</text>
+<text class="ce" x="134.4" y="176" textLength="8.4">|</text>
+<text class="ai" x="151.2" y="176" textLength="8.4">|</text>
+<text class="ak" x="168" y="176" textLength="8.4">|</text>
+<text class="al" x="184.8" y="176" textLength="8.4">(</text>
+<text class="am" x="193.2" y="176" textLength="8.4">_</text>
+<text class="bb" x="201.6" y="176" textLength="8.4">)</text>
+<text class="bd" x="218.4" y="176" textLength="8.4">|</text>
+<text class="an" x="235.2" y="176" textLength="8.4">|</text>
+<text class="cf" x="252" y="176" textLength="8.4">|</text>
+<text class="aq" x="268.8" y="176" textLength="8.4">|</text>
+<text class="at" x="294" y="176" textLength="8.4">_</text>
+<text class="be" x="302.4" y="176" textLength="8.4">_</text>
+<text class="au" x="310.8" y="176" textLength="8.4">/</text>
+<text class="av" x="319.2" y="176" textLength="8.4">\</text>
+<text class="bf" x="327.6" y="176" textLength="8.4">_</text>
+<text class="aw" x="336" y="176" textLength="8.4">_</text>
+<text class="ax" x="352.8" y="176" textLength="8.4">\</text>
+<text class="ay" x="369.6" y="176" textLength="8.4">|</text>
+<text class="az" x="378" y="176" textLength="8.4">_</text>
+<text class="ac" y="194" textLength="8.4">|</text>
+<text class="cb" x="8.4" y="194" textLength="8.4">_</text>
+<text class="bo" x="16.8" y="194" textLength="8.4">|</text>
+<text class="cc" x="25.2" y="194" textLength="8.4">\</text>
+<text class="bp" x="33.6" y="194" textLength="8.4">_</text>
+<text class="by" x="42" y="194" textLength="8.4">_</text>
+<text class="bq" x="50.4" y="194" textLength="8.4">|</text>
+<text class="ad" x="67.2" y="194" textLength="8.4">|</text>
+<text class="br" x="75.6" y="194" textLength="8.4">_</text>
+<text class="ae" x="84" y="194" textLength="8.4">_</text>
+<text class="bs" x="92.4" y="194" textLength="8.4">_</text>
+<text class="bt" x="100.8" y="194" textLength="8.4">/</text>
+<text class="bu" x="117.6" y="194" textLength="8.4">|</text>
+<text class="ag" x="126" y="194" textLength="8.4">_</text>
+<text class="aa" x="134.4" y="194" textLength="8.4">|</text>
+<text class="ab" x="151.2" y="194" textLength="8.4">|</text>
+<text class="ca" x="159.6" y="194" textLength="8.4">_</text>
+<text class="bj" x="168" y="194" textLength="8.4">|</text>
+<text class="bv" x="176.4" y="194" textLength="8.4">\</text>
+<text class="bk" x="184.8" y="194" textLength="8.4">_</text>
+<text class="bl" x="193.2" y="194" textLength="8.4">_</text>
+<text class="bm" x="201.6" y="194" textLength="8.4">_</text>
+<text class="bw" x="210" y="194" textLength="8.4">/</text>
+<text class="cg" x="218.4" y="194" textLength="8.4">|</text>
+<text class="ah" x="226.8" y="194" textLength="8.4">_</text>
+<text class="bx" x="235.2" y="194" textLength="8.4">|</text>
+<text class="ac" x="252" y="194" textLength="8.4">|</text>
+<text class="cb" x="260.4" y="194" textLength="8.4">_</text>
+<text class="bo" x="268.8" y="194" textLength="8.4">|</text>
+<text class="cc" x="277.2" y="194" textLength="8.4">\</text>
+<text class="bp" x="285.6" y="194" textLength="8.4">_</text>
+<text class="by" x="294" y="194" textLength="8.4">_</text>
+<text class="bq" x="302.4" y="194" textLength="8.4">_</text>
+<text class="af" x="310.8" y="194" textLength="8.4">|</text>
+<text class="ad" x="319.2" y="194" textLength="8.4">|</text>
+<text class="br" x="327.6" y="194" textLength="8.4">_</text>
+<text class="ae" x="336" y="194" textLength="8.4">_</text>
+<text class="bs" x="344.4" y="194" textLength="8.4">_</text>
+<text class="bt" x="352.8" y="194" textLength="8.4">/</text>
+<text class="ch" x="361.2" y="194" textLength="8.4">\</text>
+<text class="bu" x="369.6" y="194" textLength="8.4">_</text>
+<text class="ag" x="378" y="194" textLength="8.4">_</text>
+<text class="aa" x="386.4" y="194" textLength="8.4">|</text>
+</g>
+</svg>
