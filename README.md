@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![the luddites were right](https://raw.githubusercontent.com/holyspiritomb/holyspiritomb/refs/heads/main/luddites_rainbow.svg)
 
 ![transgender for everyone](https://pride-badges.pony.workers.dev/static/v1?label=transgender+for+everyone&labelColor=%23555&stripeWidth=8&stripeColors=5BCEFA%2CF5A9B8%2CFFFFFF%2CF5A9B8%2C5BCEFA)
