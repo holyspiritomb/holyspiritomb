@@ -10,6 +10,8 @@
 
 [![Works on my machine](https://raw.githubusercontent.com/holyspiritomb/holyspiritomb/refs/heads/main/works-on-my-machine.svg)](https://forthebadge.com)
 
+![transgender for everyone](https://pride-badges.pony.workers.dev/static/v1?label=transgender+for+everyone&labelColor=%23555&stripeWidth=8&stripeColors=5BCEFA%2CF5A9B8%2CFFFFFF%2CF5A9B8%2C5BCEFA)
+
 
 <!--
 **holyspiritomb/holyspiritomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
