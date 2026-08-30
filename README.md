@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![it ain't much but it's honest](https://raw.githubusercontent.com/holyspiritomb/holyspiritomb/refs/heads/main/honest.svg)
+![it ain't much but it's honest](https://raw.githubusercontent.com/holyspiritomb/holyspiritomb/refs/heads/main/honest-1.svg)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,js,sass,neovim,arch,raspberrypi)](https://skillicons.dev)
 
