@@ -1,6 +1,9 @@
 ![the luddites were right](https://raw.githubusercontent.com/holyspiritomb/holyspiritomb/refs/heads/main/luddites_rainbow.svg)
 
+![Better living through meatcoding](https://raw.githubusercontent.com/holyspiritomb/holyspiritomb/refs/heads/main/meatcoding_trans.svg)
+
 ![transgender for everyone](https://pride-badges.pony.workers.dev/static/v1?label=transgender+for+everyone&labelColor=%23555&stripeWidth=8&stripeColors=5BCEFA%2CF5A9B8%2CFFFFFF%2CF5A9B8%2C5BCEFA)
+
 
 [![Raspberry Pi 3A+](https://badgen.net/badge/icon/Raspberry%20Pi%203A+?color=A22846&icon=raspberry-pi&label)](https://raspberrypi.com)
 [![Raspberry Pi 3B+](https://badgen.net/badge/icon/Raspberry%20Pi%203B+?color=A22846&icon=raspberry-pi&label)](https://raspberrypi.com)
